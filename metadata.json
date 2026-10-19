@@ -1,0 +1,7 @@
+{
+  "name": "Java EBOB & EKOK Hesaplayıcı (While Döngüsü)",
+  "description": "Java ile while döngüsü kullanarak iki sayının EBOB ve EKOK değerlerini bulan interaktif simülasyon, adım adım döngü görselleştirici ve kaynak kod aracı - Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
